@@ -8,6 +8,6 @@ Soy un estudiante de ingeniería de sistemas de 8° semestre, destacado por mi p
 - 📫 Como comunicarse conmigo: egonzalezsuarez07@gmail.com
 - ⚡ Fun fact: Al principio pense en muchas carreras distintas, hasta teologia, pero cuando empece a estudiar ingieneria descubri mi pasion por programar.
 - 👾 Hobbies: Me gustan mucho los videosjuegos y la mecanica automotriz. 
-- Presentacion: En este repositorio pueden encontrar diferentes proyectos hechos por mi y mi hoja de vida. https://github.com/EnriqueGS07/Presentacion.git
+- 🤍 Presentacion: En este repositorio pueden encontrar diferentes proyectos hechos por mi y mi hoja de vida. https://github.com/EnriqueGS07/Presentacion.git
 
 
