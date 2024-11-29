@@ -1,6 +1,6 @@
 ### Hola!! 👋
 
-Soy un estudiante de ingeniería de sistemas de 9° semestre, destacado por mi promedio académico en La Escuela Colombiana de Ingeniería Julio Garavito, con habilidades en programación y solución de problemas por medio de algoritmos y estrategias de desarrollo de software.
+Soy un ingeniero de sistemas de la Escuela Colombaiana de Ingenieria Julio Garavito, destacado por mi promedio académico en La Escuela Colombiana de Ingeniería Julio Garavito, con habilidades en programación y solución de problemas por medio de algoritmos y estrategias de desarrollo de software.
 
 
 - 🔭Estoy interesado en el desarrollo de software.
